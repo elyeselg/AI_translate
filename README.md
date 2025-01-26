@@ -1,25 +1,23 @@
-# Translator App
+## Translator App
 
-This is a simple GUI-based Translator application built using Python and the `tkinter` library. It allows users to input text, specify a target language, and translate the text into the desired language using the `googletrans` library.
+This is a simple GUI-based Translator application built using Python and the tkinter library. It allows users to input text, specify a target language, and translate the text into the desired language using the googletrans library.
 
 ## Features
 
-- **User-friendly Interface**: A clean and responsive design built with `tkinter` and `ttk` widgets.
-- **Text Translation**: Translate text from one language to another by specifying the target language code.
-- **Real-time Results**: The translated text is displayed instantly after clicking the "Translate" button.
-- **Customizable Design**: The app uses a styled theme for better visual appeal.
+    User-friendly interface with a clean and responsive design built with tkinter and ttk widgets.
+    Text translation functionality that allows translation from one language to another by specifying the target language code.
+    Real-time results: the translated text is displayed instantly after clicking the "Translate" button.
+    Customizable design using a styled theme for a better visual experience.
 
 ## Requirements
 
-To run this project, you need to have the following installed on your machine:
+To run this project, the following must be installed on your system:
 
-- Python 3.x
-- `tkinter` (pre-installed with Python)
-- `googletrans` library
+    Python 3.x
+    tkinter (pre-installed with Python)
+    googletrans library
 
-You can install `googletrans` by running:
-```bash
-pip install googletrans==4.0.0-rc1
+To install googletrans, run the following command: pip install googletrans==4.0.0-rc1
 
 
 ## How to Run
